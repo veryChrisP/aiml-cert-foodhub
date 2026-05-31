@@ -1,4 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-extraalearn/blob/main/CPeralta_Model_Deployment_Project_7_%28Full_Code%29.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-foodhub/blob/main/CPeralta%20Python%20Foundations%20Project%201%20%28full%20code%29.ipynb)
+
+
 
 # aiml-cert-foodhub
 Project prompt:
